@@ -2,12 +2,12 @@ import pygame
 
 
 size = (1600,800)
-menu_background = "/home/juanm/Documents/Programming/Moon War 2050/images/MenuBackground.png"
-logo = "/home/juanm/Documents/Programming/Moon War 2050/images/LogoTerminado.png"
-buttonSingle = "/home/juanm/Documents/Programming/Moon War 2050/images/BotonSinglePlayer.png"
-buttonMultiplayer = "/home/juanm/Documents/Programming/Moon War 2050/images/botonMultiplayer.png"
-meteoro = "/home/juanm/Documents/Programming/Moon War 2050/images/meteoro.png"
-backSound = "/home/juanm/Documents/Programming/Moon War 2050/Sound_Efects/Music/backgrundSound.mp3"
+menu_background = "./images/MenuBackground.png"
+logo = "./images/LogoTerminado.png"
+buttonSingle = "./images/BotonSinglePlayer.png"
+buttonMultiplayer = "./images/botonMultiplayer.png"
+meteoro = "./images/meteoro.png"
+backSound = "./Sound_Efects/Music/backgrundSound.mp3"
 clock = pygame.time.Clock()
 
 class moonWar2050:
