@@ -7,7 +7,7 @@ logo = "./images/LogoTerminado.png"
 buttonSingle = "./images/BotonSinglePlayer.png"
 buttonMultiplayer = "./images/botonMultiplayer.png"
 meteoro = "./images/meteoro.png"
-backSound = "./Sound_Efects/Music/backgrundSound.mp3"
+backSound = "./Sound_Efects/Music/backgrundSound3.mp3"
 clock = pygame.time.Clock()
 
 class moonWar2050:
