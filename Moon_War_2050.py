@@ -5,3 +5,4 @@ game = Objects.moonWar2050()
 game.start()
 
 # will continue
+# will continue2
